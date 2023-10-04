@@ -32,6 +32,23 @@ Step 6 – plot the data from these .json files
 
 ![image](https://github.com/Dylan7777777/Group8_project3/assets/134973324/b5b79a51-f5a8-4cea-9de1-fd27ecbeb755)
 
+![image](https://github.com/Dylan7777777/Group8_project3/assets/134973324/4e91746b-36ca-4e35-a002-7c4e7fb3ebd5)
+
+![historical data retreival](https://github.com/Dylan7777777/Group8_project3/assets/134973324/dce799d8-2b9d-4074-8760-9b9a4d4f0837)
+
+![historical data retreival2](https://github.com/Dylan7777777/Group8_project3/assets/134973324/944d71aa-746e-4b96-a064-0489fcfdf15d)
+
+while our database was recognized by a database viewer we kept getting an attribute error in python as it wasn't recognized.
+
+So we worked on a visualization without a json file using data for about a month to get some visualizations.
+
+
+
+
+
+
+
+
 
 
 
